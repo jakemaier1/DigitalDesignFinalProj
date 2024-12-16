@@ -1,1 +1,2 @@
-# DigitalDesignFinalProj
+# Octurdle - System Verilog Base 8 Wordle Game
+A System Verilog project implemented on a Basys 3 board, featuring a Wordle-inspired game where users guess a 4-digit base-8 sequence within 5 attempts. Guesses are made using 3 single-bitswitches per digit, with feedback displayed on the seven-segment display to indicate correct, incorrect, or misplaced digits. Additional functionality includes buttons to enter guesses,view scores, convert guesses to base 10, and reveal the randomized sequence.
